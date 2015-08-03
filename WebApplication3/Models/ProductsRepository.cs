@@ -8,7 +8,7 @@ namespace WebApplication3.Models
 	{
 
 		internal IQueryable<Products> §ì¤Tµ§()
-		{
+		{//*//**/
 			return this.All().Take(3);
 		}
 	}
